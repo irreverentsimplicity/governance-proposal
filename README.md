@@ -1,4 +1,4 @@
-# Propopsal For Governance That ADDs More Than It Takes
+# Proposal For Governance That ADDs More Than It Takes
 
 
 ### Assumptions
@@ -78,7 +78,7 @@ If, at the end of the deliverable life, there is at least one Decide DAO subscri
 
 Once they received a deliverable, Decide DAOs start publishing their objects, along with the uneditable deliverables. Do DAOs subscribe to their preferred Decide DAO, signaling their intent to implement the deliverables, within the timeline and respecting the deadlines published by the Decide DAO they subscribed to. Do DAOs can subscribe to only one Decide DAOs per deliverable.
 
-Timelines, deadlines and work streams, combined together, form a Decide DAO object, which has a lifetime between 30 and 45 days. During this time, changes can be applied to the contained objects only in the firs 15 days. After that, the objects become fixed, to give time to Do DAOs to plan their availability.
+Timelines, deadlines and work streams, combined together, form a Decide DAO object, which has a lifetime between 30 and 45 days. During this time, changes can be applied to the contained objects only in the first 15 days. After that, the objects become fixed, to give time to Do DAOs to plan their availability.
 
 If, at the end of a Decide DAO object lifetime, there is no Do DAO subscribed, their object will be discarded.
 
